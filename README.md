@@ -1,6 +1,6 @@
 # CSCI640 Group Project
 
-##Goals
+## Goals
 This project has the following goals:
 
 * Students work in a group
