@@ -1,4 +1,4 @@
-# CSCI640 Group Project
+# CSCI640 Inquiry Based Project
 
 ## Goals
 This project has the following goals:
