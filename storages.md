@@ -25,6 +25,7 @@ You aren't limited to the following; however, you need to choose at least 3 diff
 * [Hadoop Filesystem (HDFS)](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
     * For additional references in case the official docs aren't enough:
         * [Linode HDFS 3 nodes](https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/)
+    * Recommended to choose as one of them as may benefit to have for the distributed databases project
 * [Ceph Filesystem](https://docs.ceph.com/en/latest/install/#recommended-methods)
     * For additional references in case the official docs aren't enough:
         * [Ceph FS on 3 nodes James Coyle](https://www.jamescoyle.net/how-to/1244-create-a-3-node-ceph-storage-cluster)
