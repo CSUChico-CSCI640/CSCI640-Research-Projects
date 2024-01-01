@@ -38,7 +38,6 @@ This project must be done individually, you are responsible for your own work.
 Your project will be graded based on the following components.
 
 * Papers - You will need to find a minimum of 2 papers that relate to your topic beyond ones from class or try to solve the question you are wanting to answer. These cannot all come from the same research group/team/author. Also need to be in addition to papers provided in class.
-* Presentation - You will need to give a short 5 minute presentation to the class on what you were trying to answer, how you tested, and what findings you discovered
 * Paper - You will submit a short paper describing what you were trying to answer, how you tested it, the testing results, and what you learned from these results. This will be in the form of a *pdf*.
     * What is your question
     * Your experimental setup (machines, etc)
