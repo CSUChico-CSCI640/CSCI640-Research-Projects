@@ -42,6 +42,7 @@ Your project will be graded based on the following components.
         * Do you have variation in your testing?
     * Your conclusion/answer to the question
     * What you learned from answering the question
+    * References to your papers and other references
 * Code - Any code you used for testing in the process of your inquiry used as part of the evaulation in the submitted paper.
 
 Submit any code and your paper to [INGInious](https://inginious.csuchico.edu) as a *tar.gz* file.
