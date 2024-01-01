@@ -1,9 +1,9 @@
-# CSCI640 Inquiry Based Project - Distributed Computing
+# CSCI640 Inquiry Based Project - Distributed Storage
 
 ## Goals
 This project has the following goals:
 
-* Project sets out to answer a question about distributed computing
+* Project sets out to answer a question about distributed storage
 * Students find a survey of research work as the starting point of their project
 * Students devise a way to test and/or gain understanding about the question they are trying to ask through a hands on implementation of the concept.
     * Should come up with a procedure or method for testing the effectiveness of known solutions or their solutions.
@@ -14,11 +14,30 @@ This project has the following goals:
 
 Recommended questions, you are welcome to propose a different one. If you did an inquiry based project in one of my classes you can not answer the same question. Any new question needs approval first.
 
-* How does Apache Spark compare to OpenMPI for computationally focused tasks?
-    * Matrix Multiplication and similar kinds of operations
-* How does Apache Spark compare to OpenMPI for data focused tasks?
-    * Summation of columns of large data sets or similar data operations
-* Replace MapReduce for either of the above technologies. I'm not going to demo or support MapReduce but it would be another potential option.
+* What distributed file system works best for large files?
+* What distributed file system works best for small files?
+* (Harder to test) What is the best distributed file system for limited memory systems?
+
+### Distributed Filesystems
+
+You aren't limited to the following; however, you need to choose at least 3 different systems to deploy and compare.
+
+* [Hadoop Filesystem (HDFS)](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
+    * For additional references in case the official docs aren't enough:
+        * [Linode HDFS 3 nodes](https://www.linode.com/docs/guides/how-to-install-and-set-up-hadoop-cluster/)
+* [Ceph Filesystem](https://docs.ceph.com/en/latest/install/#recommended-methods)
+    * For additional references in case the official docs aren't enough:
+        * [Ceph FS on 3 nodes James Coyle](https://www.jamescoyle.net/how-to/1244-create-a-3-node-ceph-storage-cluster)
+* [GlusterFS](https://docs.gluster.org/en/latest/Install-Guide/Overview/)
+    * For additional references in case the official docs aren't enough:
+        * [GlusterFS 3 nodes](https://blog.ruanbekker.com/blog/2019/03/05/setup-a-3-node-replicated-storage-volume-with-glusterfs/)
+* [MooseFS](https://moosefs.com/Content/Downloads/moosefs-installation.pdf)
+    * For additional references in case the official docs aren't enough:
+        * [Burnham Forensics MooseFS guide](https://burnhamforensics.com/2019/04/06/moosefs-build-and-installation-guide/)
+* [Lustre Filesystem](https://doc.lustre.org/lustre_manual.pdf)
+     * For additional references in case the official docs aren't enough:
+        * [Lustre Wiki](https://wiki.lustre.org/Installing_the_Lustre_Software)
+        * [GitHub Gist - Quick three-node Lustre set-up on CentOS 6](https://gist.github.com/leonardt/3fadc2ddd77741480d0d)
 
 ## Teams
 
