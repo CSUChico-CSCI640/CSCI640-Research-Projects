@@ -58,5 +58,6 @@ Your project will be graded based on the following components.
     * References to your papers and other references
 * Code - Any code you used for testing in the process of your inquiry used as part of the evaulation in the submitted paper.
 
-Submit any code and your paper to [INGInious](https://inginious.csuchico.edu) as a *tar.gz* file.
+### Submission
 
+Submit your *pdf* to Canvas, and commit any code, extra files, data appendixes, etc to your [CSCI640 Repo](https://github.com/CSUChico-CSCI640) on branch ***database***.
