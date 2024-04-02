@@ -20,7 +20,7 @@ Recommended questions, you are welcome to propose a different one. If you did an
 
 ### Distributed Filesystems
 
-You aren't limited to the following; however, you need to choose at least 3 different systems to deploy and compare.
+You aren't limited to the following; however, you need to choose at least 2 different systems to deploy and compare.
 
 * [Hadoop Filesystem (HDFS)](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
     * For additional references in case the official docs aren't enough:
