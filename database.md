@@ -31,9 +31,6 @@ You aren't limited to the following; however, you need to choose at least 2 diff
 
 
 
-## Teams
-
-You can work in a team of two to setup your test environment and help each other troubleshoot technical problems. Each team member will have their own unique question, develop their own testing code/methodology/etc, and submit their own lab report of their results.
 
 ## Evaluation
 
