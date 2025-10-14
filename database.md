@@ -14,10 +14,8 @@ This project has the following goals:
 
 Recommended questions, you are welcome to propose a different one. If you did an inquiry based project in one of my classes you can not answer the same question. Any new question needs approval first.
 
-* What distributed database system works best for parallel reads?
-* What distributed database system works best for parallel writes?
-* (Harder to test) What distributed database system works best for systems with limited memory?
-* (Harder to test) What distributed database system works best for large parallel transactions?
+* How does one distributed database stack up to another
+   * Example: Comparing table creation, insertion, query, removal, and drops 
 
 
 ### Distributed Databases
