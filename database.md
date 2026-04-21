@@ -22,9 +22,7 @@ Recommended questions, you are welcome to propose a different one. If you did an
 
 You aren't limited to the following; however, you need to choose at least 2 different systems to deploy and compare.
 
-* [Apache HBase](https://hbase.apache.org/book.html#quickstart_fully_distributed)
-    * For additional references in case the official docs aren't enough:
-        * [HBase on 3 nodes StackOverflow](https://stackoverflow.com/questions/29397659/hbase-installation-in-three-node-hadoop-cluster)
+* [CockroachDB](https://github.com/cockroachdb/cockroach)
 * [RQLite](https://rqlite.io/docs/quick-start/)
     * For additional references in case the official docs aren't enough:
         * [RQLite Cluster Management](https://github.com/rqlite/rqlite/blob/master/DOC/CLUSTER_MGMT.md)
